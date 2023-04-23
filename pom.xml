@@ -25,7 +25,6 @@
 		<dependency>
 			<groupId>com.microsoft.sqlserver</groupId>
 			<artifactId>mssql-jdbc</artifactId>
-			<scope>4.0</scope>
 		</dependency>
 
 		<dependency>
