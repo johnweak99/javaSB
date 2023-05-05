@@ -9,4 +9,9 @@ public class GreetingController {
     public String greeting(){
         return "Hi john 2";
     }
+
+    @RequestMapping(value="/message")
+    public String message(){
+        return "Congrats you are on the track!";
+    }
 }
